@@ -1,6 +1,9 @@
-# 🍳 Recipe Finder — Java + React (OOP Mini Project)
-
-## 📘 Overview
+#  Recipe Finder — Java + React (OOP Mini Group Project)
+## GROUP MEMBERS
+Angel
+Krystal 
+Adnan
+## Overview
 Recipe Finder is a **full-stack web application** built using **Java (Spring Boot)** for the backend and **React + Vite** for the frontend.  
 It helps users find recipes based on the ingredients they already have, showing which ingredients are missing and updating used ones.
 
